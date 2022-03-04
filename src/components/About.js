@@ -23,6 +23,8 @@ Beside the technical parts I'm very
 passionate about learning something new
 every day and i have very good
 interpersonal skills.
+https://github.com/djsalma01
+
           </p>
           <div className="flex justify-center">
             <a

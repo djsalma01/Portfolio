@@ -1,5 +1,6 @@
 // src/components/Navbar.js
-
+import { FaGithub } from 'react-icons/fa';
+import { FaLinkedin } from 'react-icons/fa';
 import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
 
@@ -23,6 +24,17 @@ export default function Navbar() {
             Testimonials
           </a>
         </nav>
+        
+        <a
+          href="https://www.linkedin.com/in/salma-djadi"
+          className="inline-flex items-center bg-gray-800 border-0  focus:outline-none hover:bg-gray-700 py-1 px-3 rounded text-base mt-4 md:mt-0">
+          <FaLinkedin className="w-full h-full ml-1" />
+        </a>
+        <a
+          href="https://github.com/djsalma01"
+          className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
+          <FaGithub className="w-full h-full ml-1" />
+        </a>
         <a
           href="#contact"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
