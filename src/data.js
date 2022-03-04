@@ -10,28 +10,28 @@ export const projects = [
       link: "https://e-commerce-front-coding.herokuapp.com/home",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Ecommerce ",
+      subtitle: "Sedia shop",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reedbarger.com",
+        "e-commerce web site with Wordpress and Woocommerce",
+      image: "./sediaLogo.png",
+      link: "https://sedia.dz",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Capture",
+      subtitle: "photographs community",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
+        "Capture connects photographers, companies, and individuals with an accessible e-commerce platform.",
+      image: "./yowlLogo.png",
+      link: "https://github.com/djsalma01/YOWL",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "My Shop",
+      subtitle: "Php e-commerce web site",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
+        "e-commerce with admin dashboard using Php, html and Css",
+      image: "./myshopLogo.png",
+      link: "https://github.com/djsalma01/MyShop",
     },
   ];
 
