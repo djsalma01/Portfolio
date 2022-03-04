@@ -1,4 +1,5 @@
 This is my Portfolio created using ReactJs APP and Tailwind package for css
+My portfolio is Deoployed in netfliy: https://salma-djadi.netlify.app/
 #test 
 # Getting Started with Create React App
 
