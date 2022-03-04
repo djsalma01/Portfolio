@@ -42,7 +42,7 @@ export const projects = [
 
     export const testimonials = [
       {
-        quote: "React Reserve",
+        quote: "marco.sardelli@epitech.eu",
         name: "Marco Sardli",
         company:
           "EPITECH",
